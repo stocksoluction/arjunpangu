@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Arjun Pangu Market - Official Telegram Channel</title>
+<meta name="description" content="Join 27,000+ Traders - Daily Nifty BankNifty Analysis - SEBI Compliant Educational Content">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@700;800&family=Manrope:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Manrope',sans-serif;background:#060B1A;color:#fff;line-height:1.6}
+  .container{max-width:1200px;margin:auto;padding:0 20px}
+  .nav{padding:20px 0;display:flex;justify-content:space-between;align-items:center}
+  .logo{font-family:'Inter';font-weight:800;font-size:22px}
+  .logo span{color:#3CFF6E}
+  .hero{display:grid;grid-template-columns:1.1fr 0.9fr;gap:50px;align-items:center;padding:40px 0 60px}
+  .badge{background:rgba(60,255,110,0.1);border:1px solid rgba(60,255,110,0.3);color:#3CFF6E;padding:8px 16px;border-radius:100px;font-size:13px;font-weight:600;display:inline-flex;gap:8px}
+  .hero h1{font-family:'Inter';font-size:56px;line-height:1.05;margin:24px 0;font-weight:800;letter-spacing:-1.5px}
+  .hero h1 .green{color:#3CFF6E}
+  .sub{color:#9AA0B5;font-size:18px;max-width:540px}
+  .cta{display:inline-flex;align-items:center;gap:12px;background:#3CFF6E;color:#000;font-family:'Inter';font-weight:800;padding:18px 32px;border-radius:14px;text-decoration:none;font-size:18px;margin-top:28px;box-shadow:0 0 40px rgba(60,255,110,0.35);transition:0.2s}
+  .cta:hover{transform:translateY(-2px);box-shadow:0 0 60px rgba(60,255,110,0.5)}
+  .link-box{margin-top:18px;color:#7BA6FF;font-size:15px;word-break:break-all}
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:40px}
+  .stat{background:#101426;border:1px solid #1D2340;border-radius:16px;padding:16px;display:flex;gap:12px;align-items:center}
+  .stat b{font-size:14px;display:block}
+  .stat span{font-size:12px;color:#9AA0B5}
+  .hero-img{position:relative}
+  .hero-img img{width:100%;border-radius:30px;border:2px solid #1D2340;box-shadow:0 20px 80px rgba(0,0,0,0.5)}
+  .trust{padding:60px 0;background:#0A0E1F;border-top:1px solid #1D2340;border-bottom:1px solid #1D2340;text-align:center}
+  .footer{padding:30px 0;text-align:center;color:#5A6080;font-size:12px;line-height:1.7}
+  @media(max-width:900px){.hero{grid-template-columns:1fr}.hero h1{font-size:38px}.stats{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="nav">
+    <div class="logo">Arjun <span>Pangu Market</span></div>
+    <div class="badge">🟢 27,000+ Members Active</div>
+  </div>
+
+  <div class="hero">
+    <div>
+      <div class="badge">✅ SEBI-COMPLIANT • EDUCATIONAL CONTENT</div>
+      <h1>Arjun Pangu Market - Join <span class="green">27,000+ Traders</span></h1>
+      <p class="sub">Daily market insights, technical analysis & risk-managed strategies shared for educational purposes. Daily Nifty & BankNifty analysis, chart breakdowns, and market updates.</p>
+      
+      <a href="https://t.me/+rlq69E-j7NozMDNl" class="cta">Join Free Telegram Now →</a>
+      <div class="link-box">https://t.me/+rlq69E-j7NozMDNl</div>
+
+      <div class="stats">
+        <div class="stat">📈<div><b>Daily Nifty & BankNifty</b><span>Analysis at 8:45 AM</span></div></div>
+        <div class="stat">🛡️<div><b>Risk Management</b><span>Tips & Learning</span></div></div>
+        <div class="stat">👥<div><b>27,000+ Active</b><span>Traders Community</span></div></div>
+      </div>
+    </div>
+
+    <div class="hero-img">
+      <!-- REPLACE src WITH YOUR PHOTO FILE NAME -->
+      <img src="arjun-photo.jpg" alt="Arjun Pangu Market">
+    </div>
+  </div>
+</div>
+
+<div class="trust">
+  <div class="container">
+    <h2 style="font-family:Inter;font-size:32px">Learn Trading, Not Just Tips</h2>
+    <p style="color:#9AA0B5;margin-top:10px">This is NOT a tips provider. This is a learning community.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="container">
+    Disclaimer: Content is for educational purposes only. Stock market investments are subject to market risks. Please consult your financial advisor before investing. Not SEBI registered investment advice. Arjun Pangu Market does not guarantee any returns.<br><br>
+    © 2026 Arjun Pangu Market - All Rights Reserved
+  </div>
+</div>
+</body>
+</html>
